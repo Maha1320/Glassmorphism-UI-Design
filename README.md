@@ -2,7 +2,7 @@
 
 A modern UI design project showcasing the popular **Glassmorphism** effect using pure HTML and CSS. This project features three interactive cards with a frosted-glass look.
 
-## 🔗 Live Demo
+## Live Demo
 [View Live Project](https://github.com/Maha1320/Glassmorphism-UI-Design.git)
 
 ## 🚀 Design Highlights
@@ -14,7 +14,7 @@ A modern UI design project showcasing the popular **Glassmorphism** effect using
 - **HTML5:** For structured layout.
 - **CSS3:** For advanced styling (Flexbox, Transitions, and Glassmorphism properties).
 
-## 📂 Project Structure
+## Project Structure
 - `index.html` - The main structure of the cards.
 - `style.css` - Contains all the Glassmorphism and animation logic.
 
